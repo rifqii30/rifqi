@@ -1,3 +1,3 @@
 # rifqi
 Pembuatan repository
-[image.png]( {https://ibb.co/LZFFWfq} )
+#[image.png]( {https://ibb.co/LZFFWfq} )
